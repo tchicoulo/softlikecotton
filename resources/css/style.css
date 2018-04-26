@@ -67,7 +67,7 @@ footer {
   height: 160px;
   padding-bottom: 40px;
   position: absolute;
-  padding: 0;
+  bottom: 0px;
 }
 
 .copyright {
